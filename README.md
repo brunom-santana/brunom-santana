@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Santana;I'm+22+years+old;I+from+Londrina,+PR;I+study+systems+development++;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Santana;I'm+22+years+old;I'm+from+Londrina,+PR;I+study+systems+development++;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <a href="https://github.com/brunom-satana">
@@ -8,7 +8,7 @@
 </div>
   
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Beatrizaquino&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BrunoSantana&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
   <div>
   <a href="https://instagram.com/brunom.santana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
