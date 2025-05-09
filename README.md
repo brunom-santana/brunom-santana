@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Santana;I'm+22+years+old;I'm+from+Londrina,+PR;I+study+systems+development++;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Santana;I'm+22+years+old;I'm+from+Londrina,+PR;I+study+systems+development++;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <a href="https://github.com/brunom-satana">
